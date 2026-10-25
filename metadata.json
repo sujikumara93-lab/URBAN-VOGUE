@@ -1,0 +1,6 @@
+{
+  "name": "URBAN VOGUE",
+  "description": "Luxury women's fashion and jewellery shopping app with seamless WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
